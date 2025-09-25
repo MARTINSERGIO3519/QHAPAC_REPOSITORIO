@@ -17,4 +17,4 @@ El proyecto está construido con un backend robusto en **Spring Boot**, que se e
 
 ### Clonando el proyecto
 ```bash
-git clone https://github.com/MARTINSERGIO3519/PROYECTO_QHAPAC.git
+git clone https://github.com/MARTINSERGIO3519/QHAPAC_REPOSITORIO.git
